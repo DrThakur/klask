@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  text-align: center;
+  background-color: yellow;
+  height: 100vh;
+}
+
+.first-text {
+ text-align: center;
+}
